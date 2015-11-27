@@ -15,6 +15,7 @@ class foo
 
     /**
      * @var int
+     */
     protected $foo;
 
 
