@@ -1,6 +1,6 @@
 <?php
 
-namespace ;
+namespace App\Libs;
 
 /**
  * Class foo
@@ -12,6 +12,10 @@ class foo
      * @var string
      */
     protected $name;
+
+    /**
+     * @var int
+    protected $foo;
 
 
 }
