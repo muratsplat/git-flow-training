@@ -8,6 +8,10 @@ namespace ;
  */
 class foo
 {
+    /**
+     * @var string
+     */
+    protected $name;
 
 
 }
